@@ -1,107 +1,86 @@
-<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vicente%20de%20Fran%C3%A7a&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Engenheiro%20de%20Software%20%E2%80%A2%20Desenvolvedor%20de%20Sistemas&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
-</p>
-
-<!-- ===================== TEXTO DIGITANDO ===================== -->
-<p align="center">
-  <a href="https://github.com/mattos1011">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Construindo+sistemas+que+resolvem+problemas+reais;Do+front-end+%C3%A0+integra%C3%A7%C3%A3o+com+APIs;C%C3%B3digo+limpo+%E2%80%A2+Arquitetura+%E2%80%A2+Performance" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=140&section=header&text=Vicente%20de%20Fran%C3%A7a&fontSize=40&fontColor=f8fafc&fontAlignY=42&desc=T%C3%A9cnico%20em%20Desenvolvimento%20de%20Sistemas%20%C2%B7%20Desenvolvedor%20Back-End&descSize=16&descColor=94a3b8&descAlignY=68" width="100%" />
 </p>
 
 <p align="center">
-  <a href="mailto:mattos_v11@icloud.com"><img src="https://img.shields.io/badge/E--mail-mattos__v11@icloud.com-0f172a?style=for-the-badge&logo=icloud&logoColor=38bdf8" /></a>
-  <img src="https://komarev.com/ghpvc/?username=mattos1011&style=for-the-badge&color=0f172a&label=VISITAS" />
+  <a href="mailto:mattos_v11@icloud.com"><img src="https://img.shields.io/badge/E--mail-mattos__v11%40icloud.com-0f172a?style=flat-square&logo=icloud&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-S%C3%A3o%20Paulo%2C%20Brasil-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Foco-Back--End-0f172a?style=flat-square" />
 </p>
 
----
+## Sobre
 
-## 👨‍💻 Sobre mim
+Sou desenvolvedor de sistemas em início de carreira, formado como **Técnico em Desenvolvimento de Sistemas** pela Proz Educação, com qualificação profissional em **Desenvolvimento Back-End**.
 
-```ts
-const vicente = {
-  cargo: "Engenheiro de Software",
-  foco: ["Desenvolvimento de Sistemas", "Aplicações Web", "Integração com APIs"],
-  valores: ["Código limpo", "Boa experiência de uso", "Soluções que entregam resultado"],
-  aprendendoAgora: "Sempre algo novo 🚀",
-  contato: "mattos_v11@icloud.com",
-};
-```
+Meu foco é construir aplicações web de ponta a ponta: lógica de servidor, integração com APIs e serviços, redes e segurança da informação. Uso o GitHub para praticar o que aprendo, colocando em projetos reais e publicando o resultado.
 
----
+## Formação
 
-## 🛠️ Tecnologias
+**Técnico de Nível Médio em Desenvolvimento de Sistemas** · Proz Educação, Unidade Grajaú, São Paulo
+Qualificação Profissional Técnica de **Desenvolvedor Back-End** · concluída em julho de 2026 · [validar certificado](https://validadorproz.prozeducacao.com.br/validar/82747)
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode&perline=7&theme=dark" />
-  </a>
+| Componente curricular | Carga horária | O que estudei |
+|---|:---:|---|
+| **Programação Back-End** | 75 h | Desenvolvimento de sistemas para portais, servidores de aplicação web, serviços para Internet (WebService), linguagens de alto nível e sua integração com serviços web |
+| **Sistemas Inteligentes** | 75 h | Fundamentos de inteligência artificial aplicados a serviços, redes neurais, análise de dados e comportamento de usuários, algoritmos inteligentes |
+| **Internet e Redes** | 75 h | Comunicação de dados, modelos de referência e camadas de redes, redes sem fio, computação em nuvem (IaaS, SaaS, PaaS; nuvens públicas, privadas e híbridas) |
+| **Segurança da Informação** | 75 h | Princípios de segurança e proteção de dados, estudo de vulnerabilidades, configuração de softwares de segurança |
+
+## Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode&perline=7" />
 </p>
 
----
-
-## 🚀 Projetos em destaque
+## Projetos
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📻 <a href="https://github.com/mattos1011/radio-global.">Rádio Global</a></h3>
-      <p>Sintonizador interativo com estações de rádio do mundo inteiro em tempo real, consumindo a API comunitária Radio Browser.</p>
-      <img src="https://img.shields.io/badge/API-Radio%20Browser-38bdf8?style=flat-square" />
-      <img src="https://img.shields.io/badge/Tempo%20real-✓-22c55e?style=flat-square" />
+      <h3><a href="https://github.com/mattos1011/radio-global.">Rádio Global</a></h3>
+      <p>Sintonizador de rádio interativo que permite explorar e ouvir estações do mundo todo em tempo real, consumindo a API comunitária Radio Browser.</p>
+      <sub><code>Consumo de API</code> · <code>JavaScript</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/mattos1011/psiquianalise">Psiquianálise</a></h3>
-      <p>Plataforma para consultório de psicologia com agendamento online, área do paciente e painel administrativo.</p>
-      <img src="https://img.shields.io/badge/Agendamento-online-a855f7?style=flat-square" />
-      <img src="https://img.shields.io/badge/Painel-admin-f59e0b?style=flat-square" />
+      <h3><a href="https://github.com/mattos1011/psiquianalise">Psiquianálise</a></h3>
+      <p>Site para consultório de psicologia com agendamento online, área do paciente e painel de gestão.</p>
+      <sub><code>HTML</code> · <code>CSS</code> · <code>JavaScript</code></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/mattos1011/site-vendas">Site de Vendas</a></h3>
-      <p>Loja virtual com vitrine de produtos e fluxo de compra.</p>
-      <img src="https://img.shields.io/badge/E--commerce-ef4444?style=flat-square" />
+      <h3><a href="https://github.com/mattos1011/site-vendas">Site de Vendas</a></h3>
+      <p>Site de vendas com vitrine de produtos.</p>
+      <sub><code>Front-end</code></sub>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 <a href="https://github.com/mattos1011/portifolio">Portfólio</a></h3>
-      <p>Meu portfólio pessoal com projetos e trajetória.</p>
-      <img src="https://img.shields.io/badge/Portf%C3%B3lio-pessoal-0ea5e9?style=flat-square" />
+      <h3><a href="https://github.com/mattos1011/portifolio">Portfólio</a></h3>
+      <p>Portfólio pessoal com apresentação e projetos.</p>
+      <sub><code>HTML</code> · <code>CSS</code></sub>
     </td>
   </tr>
 </table>
 
----
+## Em evolução
 
-## 📊 GitHub Stats
+- Aprofundar o desenvolvimento back-end (APIs, banco de dados e arquitetura de serviços)
+- Aplicar boas práticas de segurança nos projetos
+- Construir projetos completos, do servidor à interface, com deploy publicado
+
+## Atividade no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mattos1011&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattos1011&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mattos1011&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&locale=pt-br" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattos1011&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&locale=pt-br" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mattos1011&theme=tokyonight&hide_border=true&locale=pt_BR" />
-</p>
+## Contato
+
+Aberto a oportunidades como desenvolvedor júnior e estágio.
+
+<a href="mailto:mattos_v11@icloud.com"><img src="https://img.shields.io/badge/Enviar%20e--mail-0f172a?style=for-the-badge&logo=icloud&logoColor=white" /></a>
+<!-- <a href="https://linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mattos1011&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## 🤝 Vamos conversar?
-
-<p align="center">
-  Aberto a projetos, freelas e oportunidades. Me chama! 👇
-  <br><br>
-  <a href="mailto:mattos_v11@icloud.com"><img src="https://img.shields.io/badge/Enviar%20e--mail-0f172a?style=for-the-badge&logo=icloud&logoColor=38bdf8" /></a>
-  <a href="https://github.com/mattos1011"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- <a href="https://linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-</p>
-
-<!-- ===================== RODAPÉ ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,100:0f172a&height=60&section=footer" width="100%" />
 </p>
